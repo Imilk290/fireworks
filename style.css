@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: rgb(88, 27, 145);
+    color: chartreuse;
+    border: 2px solid purple;
+    border-radius: 10px;
+    padding: 5px;
+}
+header a {
+    text-decoration: none;
+}
+.white {
+    color: white;
+}
+nav a{
+    text-decoration: none;
+    margin: 7px;
+    color: black;
+    
+}
+main h1{
+    background-color: rgb(202, 255, 150);
+    border-radius: 10px;
+    color: black;
+    padding: 4px
+}
+footer p {
+    background-color:rgb(88, 27, 145);
+    color: chartreuse;
+    padding: 7px;
+    border-top: 10px double black;
+    
+}
+.green {
+    background-color: chartreuse;
+    color: rgb(88, 27, 145);
+}
+nav {
+    background-color:rgb(202, 255, 150) ;
+    border-radius: 10px;
+}
+.OOOOO{
+    background-color:rgb(202, 255, 150) ;
+    border-radius: 10px;
+    padding: 10px;
+}
+main h2{
+    color:rgb(88, 27, 145) ;
+}
